@@ -143,3 +143,36 @@
 //         } else if (avg < 100) {
 //                 console.log("Grade : A"); 
 // }
+
+// function Student(Fname, ID, Glevel, Cgrade,){
+//     this.Fname = Fname;
+//     this.ID = ID;
+//     this.Glevel = Glevel;
+//     this.Cgrade = Cgrade;
+//     this.admin = false;
+//     this.graduate = function (){
+//         return this.Glevel++;
+//     }
+//     this.whiteList = function (){
+//         return this.admin = true;
+//     }
+//     this.setGrade = function (value){
+//         return this.Cgrade = value;
+//     }
+// }
+
+// class Rectangle {
+//     constructor(width, length){
+//         this.width = width;
+//         this.length = length;
+//     }
+// }
+// const rect1 = new Rectangle(10, 5);
+// const rect2 = new Rectangle(6, 12);
+// const rect3 = new Rectangle(15, 20);
+
+// class circle{
+//     set radius
+// }
+
+
